@@ -5,12 +5,22 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="40" height="40" /> What I'm Up To</h2>
 <ul>
   <li>💻 Exploring Web Scraping with Python's Framework <a href="https://scrapy.org/">Scrapy</a></li>
-  <li>💾 Learning About PostgreSQL and Relational Databases in Backend Development <br><br> </li>
+  <li>💾 Learning About PostgreSQL and Relational Databases in Backend Development <br> </li>
 </ul>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="35" height="35" /> Connect With Me</h2>
 <a href="http://www.linkedin.com/in/shivain-saxena" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <span><a><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a></span>
-<!---
-ShivainSaxena/ShivainSaxena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="40" height="40" /> Tech Stack</h2>
+<h3>Languages:</h3>
+<span>
+  <img src="https://img.shields.io/badge/Python-d3d3d3?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</span>
+<h3>Frameworks/Tools:</h3>
+<span>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</span>
