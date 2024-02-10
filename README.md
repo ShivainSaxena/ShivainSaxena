@@ -5,7 +5,7 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="40" height="40" /> What I'm Up To</h2>
 <ul>
   <li>💻 Exploring Web Scraping with Python's Framework <a href="https://scrapy.org/">Scrapy</a></li>
-  <li>💾 Learning About PostgreSQL and Relational Databases in Backend Development <br> </li>
+  <li>💾 Learning About PostgreSQL and Relational Databases in Backend Development <br><br> </li>
 </ul>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="35" height="35" /> Connect With Me</h2>
 <a href="http://www.linkedin.com/in/shivain-saxena" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
