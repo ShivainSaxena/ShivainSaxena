@@ -4,7 +4,7 @@
 <p>I am a grade 12 student at Old Scona Academic High School. I have a deep passion for the mix of hardware and software and intend to pursue a degree in computer engineering. I enjoy crafting websites, experimenting with the Arduino, and learning about robotics. <br> </p>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="40" height="40" /> What I'm Up To</h2>
 <ul>
-  <li>💻 Exploring Web Scraping with Python's Framework <a href="https://scrapy.org/">Scrapy</a></li>
+  <li>💻 Experimenting with React Libraries like Material UI and Framer Motion</li>
   <li>💾 Learning About PostgreSQL and Relational Databases in Backend Development <br> </li>
 </ul>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="35" height="35" /> Connect With Me</h2>
