@@ -8,8 +8,8 @@
   <li>💾 Learning About PostgreSQL and Relational Databases in Backend Development <br> </li>
 </ul>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="35" height="35" /> Connect With Me</h2>
-<a href="http://www.linkedin.com/in/shivain-saxena" target="_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<span><a href="https://shivainsaxena.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a></span>
+<a href="http://www.linkedin.com/in/shivain-saxena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<span><a href="https://shivainsaxena.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a></span>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="40" height="40" /> Tech Stack</h2>
 <h3>Languages:</h3>
 <span>
