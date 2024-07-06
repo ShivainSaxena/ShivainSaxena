@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi! I’m Shivain Saxena <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /></h1>
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="35" height="35" /> About Me</h2>
-<p>I am a grade 12 student at Old Scona Academic High School. I have a deep passion for the mix of hardware and software and intend to pursue a degree in computer engineering. I enjoy crafting websites, experimenting with the Arduino, and learning about robotics. <br> </p>
+<p>I am a first year computer engineering student at the University of Waterloo and I have a deep passion for the mix of hardware and software. I enjoy crafting websites, experimenting with the Arduino, and learning about robotics. <br> </p>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="40" height="40" /> What I'm Up To</h2>
 <ul>
   <li>💻 Creating a Fullstack Stock Management Web App with React, Node, and Mongo DB</li>
