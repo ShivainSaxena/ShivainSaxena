@@ -5,7 +5,7 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="40" height="40" /> What I'm Up To</h2>
 <ul>
   <li>💻 Building a user-centric eCommerce platform designed to help small businesses grow their online outreach and sell their products to a wider audience through a user-friendly digital marketplace.</li>
-  <li>💾 Learning About the ESP32 module to Create Hardware Projects Connected through WIFI <br> </li>
+  <li>💾 Currently learning system design to deepen my understanding of high-level application architecture and scalable software systems. <br> </li>
 </ul>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="35" height="35" /> Connect With Me</h2>
 <a href="http://www.linkedin.com/in/shivain-saxena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
