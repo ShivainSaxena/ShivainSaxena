@@ -1,10 +1,10 @@
 
 <h1 align="center"> Hi! I’m Shivain Saxena <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /></h1>
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="35" height="35" /> About Me</h2>
-<p>I am a first year computer engineering student at the University of Waterloo and I have a deep passion for the mix of hardware and software. I enjoy crafting websites, experimenting with the Arduino, and learning about robotics. <br> </p>
+<p>I am a first year computer engineering student at the University of Waterloo and I have a deep passion for the mix of hardware and software. I enjoy crafting software solutions, experimenting with different microcontrollers, and learning about robotics. <br> </p>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="40" height="40" /> What I'm Up To</h2>
 <ul>
-  <li>💻 Creating a Fullstack Stock Management Web App with React, Node, and Mongo DB</li>
+  <li>💻 Building a user-centric eCommerce platform designed to help small businesses grow their online outreach and sell their products to a wider audience through a user-friendly digital marketplace.</li>
   <li>💾 Learning About the ESP32 module to Create Hardware Projects Connected through WIFI <br> </li>
 </ul>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="35" height="35" /> Connect With Me</h2>
@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://camo.githubusercontent.com/526fa9f5bb787c8f56e509b7c5961da052ed349a8692fb3adc84b8710ed1850f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c2d2532333037343035652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
 </span>
@@ -31,6 +30,12 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 
   
 </span>
