@@ -2,11 +2,6 @@
 <h1 align="center"> Hi! I’m Shivain Saxena <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /></h1>
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="35" height="35" /> About Me</h2>
 <p>I am a computer engineering student at the University of Waterloo and I have a deep passion for the mix of hardware and software. I enjoy crafting software solutions, experimenting with different microcontrollers, and learning about robotics. <br> </p>
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="40" height="40" /> What I'm Up To</h2>
-<ul>
-  <li>💻 Building a user-centric eCommerce platform designed to help small businesses grow their online outreach and sell their products to a wider audience through a user-friendly digital marketplace.</li>
-  <li>💾 Currently learning system design to deepen my understanding of high-level application architecture and scalable software systems. <br> </li>
-</ul>
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="35" height="35" /> Connect With Me</h2>
 <a href="http://www.linkedin.com/in/shivain-saxena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <span><a href="https://shivainsaxena.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a></span>
